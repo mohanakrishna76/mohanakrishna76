@@ -17,7 +17,7 @@
 </p></td></tr>
 
 <tr><td>
-          2nd YEAR
+          3rd YEAR
 </td></tr>
 <tr><td>
 
@@ -35,10 +35,10 @@
           About my hobiees
 </td></tr>
 <tr><td>
-           my hobie is spend time with cows     
+           my hobie is spend time with electrical device     
 </td></tr>
 <tr><td>
-<p><tr><td>My hobbie is playing FREE FIRE</tr></td></p>
+<p><tr><td>My hobbie is playing carrom</tr></td></p>
 <p><tr><td>I Like to listening MUSIC</tr></td></p>
 <p><tr><td>I Like to trucking in the forest</tr></td></p>
 <p><tr><td>I Like Photography</tr></td></p>
